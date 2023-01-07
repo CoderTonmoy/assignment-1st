@@ -150,7 +150,8 @@ ul li {
 }
 
 .contact-container {
-    background-image: url(../images/gradient2.png), url(../images/watch.png);
+    background-image: linear-gradient(to left, rgba(73, 66, 66, 0), 
+     rgba(255, 85, 0, 0.823)), url(../images/watch.png);
     padding: 59px 64px 50px;
     margin-right: 77px;
     margin-left: 13px;
@@ -174,7 +175,7 @@ ul li {
     border-radius: 5px;
     color: #F15B22;
     background-color: #FFFFFF;
-    font-weight: 400;
+    font-weight: 600;
     font-size: 16px;
 }
 
