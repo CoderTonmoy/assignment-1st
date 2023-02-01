@@ -1,5 +1,7 @@
 * {
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: 'Work Sans', sans-serif;
 }
 
@@ -10,6 +12,7 @@
     width: 100%;
     background-image: url(../images/banner/banner1.png);
     background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
 }
 
